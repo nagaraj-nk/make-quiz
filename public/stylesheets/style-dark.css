@@ -1,0 +1,26 @@
+body {
+    background-color: #272727 !important;
+    color: #fff !important;
+}
+
+.dropdown-menu {
+    background-color: #3f3f3f !important;
+}
+
+a, div, li, span, table, button {
+    color: #fff !important;
+}
+
+.dropdown-item:hover {
+    background-color: #252525 !important;
+}
+
+.form-control {
+    background-color: #323232 !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.form-control::placeholder {
+    color: #fff !important;
+}
